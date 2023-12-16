@@ -1,4 +1,4 @@
-# olá Meu Nome Danilo Gonçalves
+# Olá sou Danilo Gonçalves
 
 - 👨‍🎓 Estudante de Engenharia de Software
 - 🧩 Desafio de aprender programação!
